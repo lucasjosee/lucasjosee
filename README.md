@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou o Lucas
 
-<!--
-**lucasjosee/lucasjosee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação na **PUC Minas** (Belo Horizonte).
+Interessado em desenvolvimento de software, tecnologia aplicada a negócios, IA e computação em nuvem.
 
-Here are some ideas to get you started:
+-  [LinkedIn](https://www.linkedin.com/in/lucas-josé-souza-rodrigues-58a507339)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos em destaque
+
+**[Payment Gateway](https://github.com/lucasjosee/payment-gateway)** — Gateway de pagamento em Java, da arquitetura ao deploy na AWS.
+
+**[Crop.AI](https://github.com/lucasjosee/Crop.AI)** — App de diagnóstico agrícola com IA para soja e milho no Cerrado. Visão computacional (18 classes de doenças da soja), LLM online e modelo offline no dispositivo.
+
+### Tecnologias
+
+`Java` · `JavaScript` · `Node.js` · `AWS` · `Supabase`
